@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Newspaper Scouter - Newsletter Analytics Dashboard",
+  title: "LetterHunter - Newsletter Analytics Dashboard",
   description: "Track and analyze media company newsletters",
 };
 

@@ -1,4 +1,4 @@
-# Newspaper Scouter Dashboard
+# LetterHunter Dashboard
 
 A minimalist, Apple-style dashboard for tracking and analyzing media company newsletters. Built with Next.js, TypeScript, Tailwind CSS, and Supabase.
 

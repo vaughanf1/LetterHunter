@@ -1,7 +1,7 @@
 {
-  "name": "newspaperscouter",
+  "name": "letterhunter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Newsletter Analytics Dashboard - Track and analyze media company newsletters",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",

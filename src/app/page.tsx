@@ -122,7 +122,7 @@ export default function DashboardPage() {
                 <Newspaper className="w-8 h-8 text-primary" />
               </div>
               <div>
-                <h1 className="text-heading font-bold text-gray-900">Newspaper Scouter</h1>
+                <h1 className="text-heading font-bold text-gray-900">LetterHunter</h1>
                 <p className="text-sm text-gray-600">Newsletter Analytics Dashboard</p>
               </div>
             </div>
